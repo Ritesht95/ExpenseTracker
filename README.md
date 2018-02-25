@@ -17,4 +17,4 @@
 4. Put ExpenseTracker Folder in htdocs(in XAMPP folder). 
 5. Go to "localhost/ExpenseTracker/" in your web-browser.  
 
-- Ritesh Tailor(rdtailor@gmail.com)# ExpenseTracker 
+- Ritesh Tailor(rdtailor@gmail.com)
